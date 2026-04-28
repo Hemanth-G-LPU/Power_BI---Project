@@ -1,0 +1,57 @@
+{
+    "location": {
+        "name": "Pune",
+        "region": "Maharashtra",
+        "country": "India",
+        "lat": 18.5333,
+        "lon": 73.8667,
+        "tz_id": "Asia/Kolkata",
+        "localtime_epoch": 1752487129,
+        "localtime": "2025-07-14 15:28"
+    },
+    "current": {
+        "last_updated_epoch": 1752486300,
+        "last_updated": "2025-07-14 15:15",
+        "temp_c": 25.6,
+        "temp_f": 78.1,
+        "is_day": 1,
+        "condition": {
+            "text": "Patchy rain nearby",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+            "code": 1063
+        },
+        "wind_mph": 15.0,
+        "wind_kph": 24.1,
+        "wind_degree": 247,
+        "wind_dir": "WSW",
+        "pressure_mb": 1005.0,
+        "pressure_in": 29.68,
+        "precip_mm": 0.11,
+        "precip_in": 0.0,
+        "humidity": 74,
+        "cloud": 91,
+        "feelslike_c": 27.6,
+        "feelslike_f": 81.6,
+        "windchill_c": 25.6,
+        "windchill_f": 78.2,
+        "heatindex_c": 27.6,
+        "heatindex_f": 81.6,
+        "dewpoint_c": 20.7,
+        "dewpoint_f": 69.3,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 3.6,
+        "gust_mph": 18.6,
+        "gust_kph": 30.0,
+        "air_quality": {
+            "co": 288.6,
+            "no2": 6.29,
+            "o3": 56.0,
+            "so2": 7.4,
+            "pm2_5": 10.545,
+            "pm10": 23.125,
+            "us-epa-index": 1,
+            "gb-defra-index": 1
+        }
+    }
+}
